@@ -1,0 +1,18 @@
+{
+  "name": "atm",
+  "version": "1.0.0",
+  "description": "ATM with Typescript and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zarmeen Sheikh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^10.1.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
